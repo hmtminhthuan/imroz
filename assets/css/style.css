@@ -573,7 +573,7 @@ svg:not(:root) {
 }
 
 .bg_image--3 {
-  background-image: url(/assets/images/bg/bg-image-3.jpg) !important;
+  background-image: url(../../assets/images/bg/bg-image-3.jpg) !important;
 }
 
 .bg_color--1 {
@@ -5317,26 +5317,26 @@ font-family: 'Poppins', sans-serif;
 
 
 .bg_image--3 {
-  background-image: url(/assets/images/bg/bg-image-3.jpg) !important;
+  background-image: url(../../assets/images/bg/bg-image-3.jpg) !important;
 }
 
 
 .bg_image--20 {
-  background-image: url(/assets/images/bg/bg-image-20.jpg) !important;
+  background-image: url(../../assets/images/bg/bg-image-20.jpg) !important;
 }
 
 
 
 .bg_image--22 {
-  background-image: url(/assets/images/bg/bg-image-22.jpg) !important;
+  background-image: url(../../assets/images/bg/bg-image-22.jpg) !important;
 }
 
 .bg_image--23 {
-  background-image: url(/assets/images/bg/bg-image-23.jpg) !important;
+  background-image: url(../../assets/images/bg/bg-image-23.jpg) !important;
 }
 
 .bg_image--24 {
-  background-image: url(/assets/images/bg/bg-image-24.jpg) !important;
+  background-image: url(../../assets/images/bg/bg-image-24.jpg) !important;
 }
 
 
@@ -13601,7 +13601,7 @@ ul.social-share.social-style--2.color-black li a:hover {
   background-position: center;
   border-radius: 5px;
   background-color: #0a0a0a;
-  background-image: url(/assets/images/portfolio/portfolio-1.jpg);
+  background-image: url(../../assets/images/portfolio/portfolio-1.jpg);
   transform: scale(1.13) translateZ(0);
   backface-visibility: hidden;
   transition: transform 0.28s ease;
@@ -13609,19 +13609,19 @@ ul.social-share.social-style--2.color-black li a:hover {
 }
 
 .portfolio .thumbnail.image-1 {
-  background-image: url(/assets/images/portfolio/portfolio-1.jpg);
+  background-image: url(../../assets/images/portfolio/portfolio-1.jpg);
 }
 
 .portfolio .thumbnail.image-2 {
-  background-image: url(/assets/images/portfolio/portfolio-2.jpg);
+  background-image: url(../../assets/images/portfolio/portfolio-2.jpg);
 }
 
 .portfolio .thumbnail.image-3 {
-  background-image: url(/assets/images/portfolio/portfolio-3.jpg);
+  background-image: url(../../assets/images/portfolio/portfolio-3.jpg);
 }
 
 .portfolio .thumbnail.image-4 {
-  background-image: url(/assets/images/portfolio/portfolio-4.jpg);
+  background-image: url(../../assets/images/portfolio/portfolio-4.jpg);
 }
 
 .portfolio .thumbnail::after {
@@ -13647,26 +13647,26 @@ ul.social-share.social-style--2.color-black li a:hover {
   background-size: cover;
   background-position: center;
   background-color: #0a0a0a;
-  background-image: url(/assets/images/portfolio/portfolio-1.jpg);
+  background-image: url(../../assets/images/portfolio/portfolio-1.jpg);
   transform: translateY(38px);
   opacity: 0;
   z-index: 1;
 }
 
 .portfolio .bg-blr-image.image-1 {
-  background-image: url(/assets/images/portfolio/portfolio-1.jpg);
+  background-image: url(../../assets/images/portfolio/portfolio-1.jpg);
 }
 
 .portfolio .bg-blr-image.image-2 {
-  background-image: url(/assets/images/portfolio/portfolio-2.jpg);
+  background-image: url(../../assets/images/portfolio/portfolio-2.jpg);
 }
 
 .portfolio .bg-blr-image.image-3 {
-  background-image: url(/assets/images/portfolio/portfolio-1.jpg);
+  background-image: url(../../assets/images/portfolio/portfolio-1.jpg);
 }
 
 .portfolio .bg-blr-image.image-4 {
-  background-image: url(/assets/images/portfolio/portfolio-1.jpg);
+  background-image: url(../../assets/images/portfolio/portfolio-1.jpg);
 }
 
 .portfolio .content {
@@ -13735,63 +13735,63 @@ ul.social-share.social-style--2.color-black li a:hover {
 }
 
 .portfolio.portfolio-interior-design .thumbnail.image-1 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-1.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-1.jpg);
 }
 
 .portfolio.portfolio-interior-design .thumbnail.image-2 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-2.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-2.jpg);
 }
 
 .portfolio.portfolio-interior-design .thumbnail.image-3 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-3.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-3.jpg);
 }
 
 .portfolio.portfolio-interior-design .thumbnail.image-4 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-4.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-4.jpg);
 }
 
 .portfolio.portfolio-interior-design .thumbnail.image-5 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-5.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-5.jpg);
 }
 
 .portfolio.portfolio-interior-design .thumbnail.image-6 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-6.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-6.jpg);
 }
 
 .portfolio.portfolio-interior-design .thumbnail.image-7 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-7.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-7.jpg);
 }
 
 .portfolio.portfolio-interior-design .bg-blr-image {
-  background-image: url(/assets/images/portfolio/interior/portfolio-1.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-1.jpg);
 }
 
 .portfolio.portfolio-interior-design .bg-blr-image.image-1 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-1.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-1.jpg);
 }
 
 .portfolio.portfolio-interior-design .bg-blr-image.image-2 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-2.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-2.jpg);
 }
 
 .portfolio.portfolio-interior-design .bg-blr-image.image-3 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-3.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-3.jpg);
 }
 
 .portfolio.portfolio-interior-design .bg-blr-image.image-4 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-4.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-4.jpg);
 }
 
 .portfolio.portfolio-interior-design .bg-blr-image.image-5 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-5.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-5.jpg);
 }
 
 .portfolio.portfolio-interior-design .bg-blr-image.image-6 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-6.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-6.jpg);
 }
 
 .portfolio.portfolio-interior-design .bg-blr-image.image-7 {
-  background-image: url(/assets/images/portfolio/interior/portfolio-7.jpg);
+  background-image: url(../../assets/images/portfolio/interior/portfolio-7.jpg);
 }
 
 .portfolio.text-center .content {
@@ -14039,7 +14039,7 @@ ul.social-share.social-style--2.color-black li a:hover {
 }
 
 .portfolio-slick-activation button.slick-arrow.slick-prev::before {
-  content: url(/assets/images/icons/slick-arrow-left.png);
+  content: url(../../assets/images/icons/slick-arrow-left.png);
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -14069,7 +14069,7 @@ ul.social-share.social-style--2.color-black li a:hover {
 }
 
 .portfolio-slick-activation button.slick-arrow.slick-next::before {
-  content: url(/assets/images/icons/slick-arrow-right.png);
+  content: url(../../assets/images/icons/slick-arrow-right.png);
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -16136,7 +16136,7 @@ Slider Default Button And Dot STyle
 }
 
 .slider-activation button.slick-arrow.slick-prev::before {
-  content: url(/assets/images/icons/slick-arrow-left-small.png);
+  content: url(../../assets/images/icons/slick-arrow-left-small.png);
 }
 
 .slider-activation button.slick-arrow.slick-prev:hover {
@@ -16165,7 +16165,7 @@ Slider Default Button And Dot STyle
 }
 
 .slider-activation button.slick-arrow.slick-next::before {
-  content: url(/assets/images/icons/slick-arrow-right-small.png);
+  content: url(../../assets/images/icons/slick-arrow-right-small.png);
 }
 
 .slider-activation button.slick-arrow.slick-next:hover {
@@ -16222,7 +16222,7 @@ Slick Animation For Slider
     Box Model  
 ----------------------*/
 .box-model .service-wrapper {
-  background-image: url(/assets/images/bg/bg-image-1.jpg);
+  background-image: url(../../assets/images/bg/bg-image-1.jpg);
   padding: 10px 50px;
   border-radius: 6px;
   position: relative;
@@ -16513,7 +16513,7 @@ Testimonial Styles
   height: 100%;
   left: -64px;
   top: -57px;
-  background-image: url(/assets/images/client/image-1.png);
+  background-image: url(../../assets/images/client/image-1.png);
   content: "";
   opacity: 1;
   background-repeat: no-repeat;
@@ -18563,7 +18563,7 @@ BLog Details Styles
   height: 121%;
   left: 50%;
   top: 2px;
-  background-image: url(/assets/images/client/image-1.png);
+  background-image: url(../../assets/images/client/image-1.png);
   content: "";
   opacity: 1;
   background-repeat: no-repeat;
@@ -19707,7 +19707,7 @@ Footer Styles
 
 .active-dark .bg_image--25 {
   background-color: #101010;
-  background-image: url(/assets/images/bg/bg-image-28.jpg) !important;
+  background-image: url(../../assets/images/bg/bg-image-28.jpg) !important;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
